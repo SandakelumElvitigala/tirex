@@ -22,14 +22,10 @@ const About = () => {
           className="max-w-4xl mx-auto text-center mb-12"
         >
           <p className="text-lg mb-6 text-gray-300">
-            Tirex Engineering, established in 2025, is a cutting-edge electrical and civil engineering company. We pride
-            ourselves on our team of highly skilled engineers and experienced professionals who are dedicated to
-            delivering innovative solutions for our clients.
+            TIREX Engineering (Pvt) Ltd is committed to providing innovative, reliable, and high-quality engineering solutions. Specializing in construction and electrical systems, we focus on delivering excellence across every project. With a strong emphasis on customer satisfaction, we ensure that each project is completed to the highest standards, from design to implementation.
           </p>
           <p className="text-lg text-gray-300">
-            Our commitment to excellence and state-of-the-art technology allows us to tackle complex projects with
-            precision and efficiency. From concept to completion, we ensure that every project meets the highest
-            standards of quality, safety, and sustainability.
+            Our team combines technical expertise with practical experience, making us the ideal partner for transforming your vision into reality. Whether you're seeking consultation, design, or full-scale project execution, TIREX Engineering is here to serve you.
           </p>
         </motion.div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -42,8 +38,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-2 gradient-text">Our Mission</h3>
                 <p className="text-foreground/80">
-                  To deliver innovative and sustainable engineering solutions that shape the future of infrastructure
-                  and technology.
+                  Our mission at TIREX Engineering is to deliver superior engineering solutions that enhance the built environment and meet the diverse needs of our clients. We are dedicated to providing exceptional service, leveraging advanced technology, and maintaining the highest standards of quality and safety. By fostering a culture of collaboration, innovation, and integrity, we aim to be a trusted partner in every project we undertake, ensuring long-term value and success for our clients and communities.
                 </p>
               </CardContent>
             </Card>
@@ -57,8 +52,7 @@ const About = () => {
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold mb-2 gradient-text">Our Vision</h3>
                 <p className="text-foreground/80">
-                  To be the leading force in transforming the built environment through cutting-edge engineering
-                  practices.
+                  To be a leading force in the engineering industry, known for our commitment to innovation, quality, and sustainability. At TIREX Engineering, we strive to shape the future of construction and electrical systems through cutting-edge solutions that exceed client expectations and contribute to the advancement of infrastructure and technology.
                 </p>
               </CardContent>
             </Card>
